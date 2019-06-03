@@ -1,2 +1,2 @@
-# javascriptlearnings
+# javascript learnings
 My javascript learnings
